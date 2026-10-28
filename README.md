@@ -3,8 +3,8 @@
 
 <p align="center">
   <a href="https://amine-portfolio-cmtt.onrender.com"><img src="https://img.shields.io/badge/Portfolio-AmineOS-1F3A5F?style=for-the-badge" alt="Portfolio"></a>
-  <a href="CV/Mohamed_Amine_Chaieb_CV_EN.pdf"><img src="https://img.shields.io/badge/CV-English%20(PDF)-1F3A5F?style=for-the-badge" alt="CV in English"></a>
-  <a href="CV/Mohamed_Amine_Chaieb_CV_FR.pdf"><img src="https://img.shields.io/badge/CV-Fran%C3%A7ais%20(PDF)-1F3A5F?style=for-the-badge" alt="CV en français"></a>
+  <a href="CV/CV_global_en.pdf"><img src="https://img.shields.io/badge/CV-English%20(PDF)-1F3A5F?style=for-the-badge" alt="CV in English"></a>
+  <a href="CV/CV_global_fr.pdf"><img src="https://img.shields.io/badge/CV-Fran%C3%A7ais%20(PDF)-1F3A5F?style=for-the-badge" alt="CV en français"></a>
   <a href="https://www.linkedin.com/in/mohamedaminechaieb/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge" alt="LinkedIn"></a>
   <a href="mailto:m.amine.chaieb@gmail.com"><img src="https://img.shields.io/badge/Email-m.amine.chaieb@gmail.com-444?style=for-the-badge" alt="Email"></a>
 </p>
