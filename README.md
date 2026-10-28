@@ -16,7 +16,7 @@
 | Step | What | Link |
 |---|---|---|
 | 1 | **Look around my interactive portfolio** (click the monitor, then open *Projects*) | [AmineOS](https://amine-portfolio-cmtt.onrender.com) |
-| 2 | **Read my CV** (one page) | [English](CV/Mohamed_Amine_Chaieb_CV_EN.pdf) · [Français](CV/Mohamed_Amine_Chaieb_CV_FR.pdf) |
+| 2 | **Read my CV** (one page) | [English](CV/CV_global_en.pdf) · [Français](CV/CV_global_fr.pdf) |
 | 3 | **See the code** of my main projects | [Featured projects](#-featured-projects) |
 | 4 | **Get in touch** | [Contact](#-contact) |
 
